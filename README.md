@@ -1,8 +1,7 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![proje resmi](https://user-images.githubusercontent.com/102286448/212894168-1f28af15-a287-43a4-898c-b9f8d2375bfd.png)
-
+![proje resmi](https://user-images.githubusercontent.com/102286448/212893286-9072f7ce-9c73-4b33-98bd-622daf53b8bb.png)
 
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
